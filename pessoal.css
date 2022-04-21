@@ -13,6 +13,7 @@ body{
 .imagens-topo {
 	text-align: center;
 	margin: 0px 10px 0 10px;
+	background-size: cover;
 }
 .spacex, .nasa, .virgin, .blue{
 	width: 150px;
@@ -46,7 +47,7 @@ body{
 }
 .topico2 {
 	background-image: linear-gradient(to bottom, rgb(0, 0, 0) , #000b1d);
-	height: 970px
+	height: 970px;
 }
 .topico2 > h1 {
 	color: whitesmoke;
@@ -57,7 +58,8 @@ body{
 }
 .materias {
 	margin: auto;
-	width: 706px;
+	min-width: 400px;
+	max-width: 706px;
 	height: 839px;
 }
 .jameswebb {
