@@ -17,7 +17,8 @@ body{
 }
 .spacex, .nasa, .virgin, .blue{
 	width: 150px;
-	margin: 0 70px;
+	margin: 0 ;
+	margin: 0px 30px;
 }
 .spacex, .virgin {
 	width: 170px;
@@ -145,6 +146,9 @@ footer {
 	padding: 35px;
 	font-family: sans-serif;
 	font-weight: bold;
+	position: relative;
+	bottom: 0px;
+	left: 0px;
 }
 
 /*  Inicio do projeto vida em marte*/
