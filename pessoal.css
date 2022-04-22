@@ -106,39 +106,6 @@ body{
 	background-size: cover;
 	height: 999px
 }
-details {
-	font-family: sans-serif;
-	text-align: center;
-	padding-top: 70px ;
-	color: white;
-	max-width: 700px;
-	min-width: none;
-	
-}
-.texto-falcon {
-	text-align: justify;
-	margin: 5px;
-	font-size: 1.5em;
-	max-width: 500px;
-	min-width: none;
-	padding-left: 270px;
-	padding-top: 50px;
-}
-.texto-falcon a {
-	text-decoration: none;
-	color: rgb(39, 140, 235);
-}
-.texto-tai {
-	text-align: justify;
-	margin: 5px;
-	font-size: 1.5em;
-	width: 500px;
-	padding-left: 1220px;
-}
-.texto-tai a {
-	text-decoration: none;
-	color: #f71e29ea;
-}
 footer {
 	background-color: black;
 	color: whitesmoke;
