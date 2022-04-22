@@ -16,7 +16,7 @@ body{
 	background-size: cover;
 }
 .spacex, .nasa, .virgin, .blue{
-	width: 150px;
+	max-width: 150px;
 	margin: 0 ;
 	margin: 0px 30px;
 }
