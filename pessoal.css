@@ -182,14 +182,14 @@ body {
 	background-color: black;
 }
 .marte {
-	width: 600px;
-	height: 400px;
-	padding: 10px 0 0 180px;
+	padding: 10px 0px;
+	display: block;
+	margin: auto;
 }
 
 .mainmarte {
 	max-width: 1000px;
-	min-width: 400px;
+	min-width: 300px;
 	margin: auto;
 }
 h2 {
