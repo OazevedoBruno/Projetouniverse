@@ -25,16 +25,7 @@ body{
 .spacex, .virgin {
 	width: 170px;
 }
-.nasa:hover {
-	transform: scale(1.2);
-}
-.spacex:hover {
-	transform: scale(1.2);
-}
-.blue:hover {
-	transform: scale(1.2);
-}
-.virgin:hover {
+img :hover {
 	transform: scale(1.2);
 }
 .texto-1 {
