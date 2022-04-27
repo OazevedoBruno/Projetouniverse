@@ -15,10 +15,17 @@ body{
 	justify-content: space-around;
 	align-items: center;
 	margin: 0 auto;
+}
+.img2 {
+	width: 90%;
+	transition: all 1s linear;
+}
+.img2:hover {
+	transform: scale(1.2);
 	transition: all 1s;
 }
 img:hover {
-	transform: scale(1.1);
+	transform: scale(1.05);
 	transition: all 1s;
 }
 .texto-1 {
@@ -37,7 +44,7 @@ img:hover {
 	background-image: linear-gradient(to bottom, rgb(0, 0, 0) , #000b1d);
 }
 .block-img {
-	width: 31.5%;
+	width: 31%;
 	margin: 0 auto;
 }
 .block-img-left {
@@ -55,6 +62,7 @@ img:hover {
     height: 200px;
     object-fit: cover;
 	border-radius: 20px;
+	transition: all 1s linear;
   }
 
 footer {
