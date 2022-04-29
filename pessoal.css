@@ -24,7 +24,7 @@ body{
 	transform: scale(1.2);
 	transition: all 1s;
 }
-img:hover {
+.materias:hover {
 	transform: scale(1.05);
 	transition: all 1s;
 }
@@ -64,6 +64,15 @@ img:hover {
 	border-radius: 20px;
 	transition: all 1s linear;
   }
+#topico2 {
+	background-image: url(imagens/foguete-g.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: black;
+	height: 970px;
+	background-size: cover;
+	margin: auto;
+}
 
 footer {
 	background-color: black;
