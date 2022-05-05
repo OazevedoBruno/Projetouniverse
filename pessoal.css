@@ -11,7 +11,7 @@ body{
 	margin: auto;
 }
 .imagens-topo {
-	display: flex;
+	display: flex
 	justify-content: space-around;
 	align-items: center;
 	margin: 0 auto;
