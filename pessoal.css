@@ -9,9 +9,9 @@ body{
 	background-size: cover;
 	height: 970px;
 	margin: auto;
-}
+} 
 .imagens-topo {
-	display: flex
+	display: flex;
 	justify-content: space-around;
 	align-items: center;
 	margin: 0 auto;
@@ -88,25 +88,23 @@ footer {
 /*  Only Mobile  */
 @media all and (max-width: 767px) {
     .imagens-topo {
-        width: 95%
+        width: 85%
     }
 }
 
 /*  Only Tablet  */
-@media all and (min-width: 768px) and (max-width: 991) {
+@media all and (min-width: 768px) and (max-width: 991px) {
     .imagens-topo {
         width: 80%;
     }
 }
-
-/*  Only Desktop  */
+ /*  Only Desktop  */
 @media all and (min-width: 992px) {
     .imagens-topo {
         width: 75%;
 		
     }
 }
-
 /*  Inicio do projeto vida em marte*/
 body {
 	font-family: sans-serif
